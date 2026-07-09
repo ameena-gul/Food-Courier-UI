@@ -39,11 +39,13 @@ Page{
                 font.bold: true
                 background: Rectangle{
                     color:"transparent"
+
                 }
                 contentItem: Text{
                     text:parent.text
                     font.bold: true
                     color: bar.currentIndex === 0 ? "#D61355" : "black"
+
 
                 }
             }
@@ -54,6 +56,7 @@ Page{
                 font.bold: true
                 background: Rectangle{
                     color: "transparent"
+
 
                 }
                 contentItem: Text{
@@ -99,6 +102,7 @@ Page{
                     background: Rectangle {
                         color: "white"
                         radius: 7
+
                     }
                 }
 
@@ -119,6 +123,7 @@ Page{
                     background: Rectangle {
                         color: "white"
                         radius: 7
+
                     }
                 }
 
@@ -140,7 +145,7 @@ Page{
                     background: Rectangle {
                         color: "white"
                         radius: 7
-                    }
+                      }
                 }
 
                 Button {
@@ -183,6 +188,7 @@ Page{
                     }
 
                     contentItem: Row {
+
                         anchors.centerIn: parent
                         spacing: 10
 
@@ -190,6 +196,8 @@ Page{
                             source: "images/Google.png"
                             width: 20
                             height: 20
+                            x: 40
+                            anchors.verticalCenter: parent.verticalCenter
                         }
 
                         Text {
@@ -197,6 +205,8 @@ Page{
                             font.family: "Poppins"
                             font.pixelSize: 14
                             font.bold: true
+                            x: 75
+                            anchors.verticalCenter: parent.verticalCenter
                         }
                     }
                 }
@@ -224,6 +234,7 @@ Page{
                     background: Rectangle {
                         color: "white"
                         radius: 7
+
                     }
                 }
 
@@ -245,6 +256,7 @@ Page{
                     background: Rectangle {
                         color: "white"
                         radius: 7
+
                     }
                 }
                 Button{
@@ -252,12 +264,11 @@ Page{
                     y: 195
                     width: 36
                     height:107
-                    onClicked:{
-                        console.log("Forget Password Clicked")
-                }
+
                     background: Rectangle {
                         radius: 7
                         color:"white"
+
                         }
 
                         contentItem: Text {
@@ -267,6 +278,13 @@ Page{
                             font.pixelSize: 12
 
                         }
+                        MouseArea {
+                        anchors.fill: parent
+                        onClicked:{
+                            console.log("Forget Password Clicked")
+                        }
+
+                    }
 }
 
                 Button {
@@ -281,6 +299,7 @@ Page{
                     background: Rectangle {
                         radius: 7
                         color: "#D61355"
+
                     }
 
                     contentItem: Text {
@@ -291,6 +310,8 @@ Page{
                         font.family: "Roboto"
                         font.pixelSize: 14
                         font.bold: true
+                        anchors.verticalCenter: parent.verticalCenter
+                        x: 40
                     }
                 }
 
@@ -306,6 +327,7 @@ Page{
                     background: Rectangle {
                         radius: 7
                         color: "#F4F4F4"
+
                     }
 
                     contentItem: Row {
@@ -316,6 +338,8 @@ Page{
                             source: "images/Google.png"
                             width: 20
                             height: 20
+                            anchors.verticalCenter: parent.verticalCenter
+                            x: 75
                         }
 
                         Text {
@@ -323,6 +347,8 @@ Page{
                             font.family: "Poppins"
                             font.pixelSize: 14
                             font.bold: true
+                            anchors.verticalCenter: parent.verticalCenter
+                             x: 75
                         }
                     }
                 }
