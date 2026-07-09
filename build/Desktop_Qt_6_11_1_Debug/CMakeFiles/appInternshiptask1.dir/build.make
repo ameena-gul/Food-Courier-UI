@@ -159,6 +159,8 @@ Internshiptask1/appInternshiptask1.qmltypes: appinternshiptask1_qmltyperegistrat
 .qt/rcc/qrc_appInternshiptask1_raw_res_0.cpp: /home/ameena/projects/Internshiptask1/images/Illustration.png
 .qt/rcc/qrc_appInternshiptask1_raw_res_0.cpp: /home/ameena/projects/Internshiptask1/images/CTAButton.png
 .qt/rcc/qrc_appInternshiptask1_raw_res_0.cpp: /home/ameena/projects/Internshiptask1/images/Group3.png
+.qt/rcc/qrc_appInternshiptask1_raw_res_0.cpp: /home/ameena/projects/Internshiptask1/images/Illustration2.png
+.qt/rcc/qrc_appInternshiptask1_raw_res_0.cpp: /home/ameena/projects/Internshiptask1/images/Google.png
 .qt/rcc/qrc_appInternshiptask1_raw_res_0.cpp: .qt/rcc/appInternshiptask1_raw_res_0.qrc
 .qt/rcc/qrc_appInternshiptask1_raw_res_0.cpp: /home/ameena/Qt/6.11.1/gcc_64/libexec/rcc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Running rcc for resource appInternshiptask1_raw_res_0"

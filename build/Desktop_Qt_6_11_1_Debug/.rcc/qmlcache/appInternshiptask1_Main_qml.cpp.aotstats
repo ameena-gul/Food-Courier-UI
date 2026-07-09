@@ -20,6 +20,14 @@
                             "functionName": "fill",
                             "line": 15,
                             "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "stack",
+                            "line": 17,
+                            "message": ""
                         }
                     ],
                     "filePath": "/home/ameena/projects/Internshiptask1/Main.qml"

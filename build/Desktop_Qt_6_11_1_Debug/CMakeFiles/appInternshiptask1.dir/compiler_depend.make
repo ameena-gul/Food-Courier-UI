@@ -2541,6 +2541,7 @@ CMakeFiles/appInternshiptask1.dir/build/Desktop_Qt_6_11_1_Debug/.rcc/qmlcache/ap
   /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qlist.h \
   /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qlocale.h \
   /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qlogging.h \
+  /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qloggingcategory.h \
   /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qmalloc.h \
   /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qmap.h \
   /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qmath.h \

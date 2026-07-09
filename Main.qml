@@ -11,9 +11,10 @@ ApplicationWindow {
     title: ("Food Courier")
 
     StackView {
-          id: stackView
+          id: stack
           anchors.fill: parent
           initialItem: View1{
+          stack : stack
           }
       }
 }

@@ -3,6 +3,7 @@ import QtQuick.Layouts
 import QtQuick.Controls.Basic
 
 Item {
+    property StackView stack
     id: window
     width: 375
     height: 812
@@ -15,6 +16,7 @@ Item {
         width: 408
         height: 434
         fillMode: Image.PreserveAspectFit
+
     }
 
     Text {
@@ -78,13 +80,17 @@ Item {
             verticalAlignment: Text.AlignVCenter
         }
 
-        onClicked: {
-            console.log("Next clicked")
-            // StackView.view.push("View2.qml")
-        }
+
+
+            onClicked: {
+                stack.push(Qt.resolvedUrl("View2.qml"), {
+                    stack: stack
+                })
+            }
+
     }
 
-    Image {
+Image {
         id: bottomNavigation
 
         source: "images/Group3.png"
@@ -103,4 +109,5 @@ Item {
             }
         }
     }
+
 }

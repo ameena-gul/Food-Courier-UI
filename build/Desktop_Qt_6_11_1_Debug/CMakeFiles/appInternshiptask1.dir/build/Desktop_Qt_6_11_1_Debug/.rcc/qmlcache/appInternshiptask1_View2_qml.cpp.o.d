@@ -372,6 +372,7 @@ CMakeFiles/appInternshiptask1.dir/build/Desktop_Qt_6_11_1_Debug/.rcc/qmlcache/ap
  /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qspan.h \
  /usr/include/c++/13/cassert \
  /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/q20iterator.h \
+ /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qloggingcategory.h \
  /home/ameena/Qt/6.11.1/gcc_64/include/QtCore/qtimezone.h \
  /home/ameena/Qt/6.11.1/gcc_64/include/QtQml/qjsengine.h \
  /home/ameena/Qt/6.11.1/gcc_64/include/QtQml/qjsmanagedvalue.h \

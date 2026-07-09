@@ -72,6 +72,8 @@ CMakeFiles/appInternshiptask1_copy_res: .qt/appInternshiptask1_res.txt
 .qt/appInternshiptask1_res.txt: /home/ameena/projects/Internshiptask1/images/Illustration.png
 .qt/appInternshiptask1_res.txt: /home/ameena/projects/Internshiptask1/images/CTAButton.png
 .qt/appInternshiptask1_res.txt: /home/ameena/projects/Internshiptask1/images/Group3.png
+.qt/appInternshiptask1_res.txt: /home/ameena/projects/Internshiptask1/images/Illustration2.png
+.qt/appInternshiptask1_res.txt: /home/ameena/projects/Internshiptask1/images/Google.png
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Copying appInternshiptask1 qml resources into build dir"
 	/home/ameena/Qt/Tools/CMake/bin/cmake -DFILES_INFO_PATH=/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/.qt/appInternshiptask1_res.cmake -P /home/ameena/Qt/6.11.1/gcc_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake
 

@@ -99,13 +99,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 49,
+				"line" : 51,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 45,
+				"line" : 47,
 				"parent" : 0
 			},
 			{
@@ -825,13 +825,13 @@
 				14,
 				16,
 				17,
-				21,
-				34,
-				35,
+				23,
 				36,
 				37,
 				38,
-				39
+				39,
+				40,
+				41
 			]
 		},
 		{
@@ -851,15 +851,15 @@
 				15,
 				18,
 				19,
-				20
+				20,
+				21,
+				22
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				22,
-				23,
 				24,
 				25,
 				26,
@@ -869,7 +869,9 @@
 				30,
 				31,
 				32,
-				33
+				33,
+				34,
+				35
 			]
 		}
 	],
@@ -1002,6 +1004,16 @@
 		{
 			"backtrace" : 87,
 			"path" : "images/Group3.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 87,
+			"path" : "images/Illustration2.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 87,
+			"path" : "images/Google.png",
 			"sourceGroupIndex" : 2
 		},
 		{

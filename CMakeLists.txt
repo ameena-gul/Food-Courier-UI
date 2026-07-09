@@ -28,6 +28,8 @@ qt_add_qml_module(appInternshiptask1
              images/Illustration.png
              images/CTAButton.png
              images/Group3.png
+             images/Illustration2.png
+             images/Google.png
 
 )
 

@@ -8,6 +8,10 @@ set(src_and_dest_list
     "/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/Internshiptask1/images/CTAButton.png"
     "/home/ameena/projects/Internshiptask1/images/Group3.png"
     "/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/Internshiptask1/images/Group3.png"
+    "/home/ameena/projects/Internshiptask1/images/Illustration2.png"
+    "/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/Internshiptask1/images/Illustration2.png"
+    "/home/ameena/projects/Internshiptask1/images/Google.png"
+    "/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/Internshiptask1/images/Google.png"
 
 )
 set(timestamp_file "/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/.qt/appInternshiptask1_res.txt")
