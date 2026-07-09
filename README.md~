@@ -1,8 +1,8 @@
 # 🍔 Food Courier UI (Qt/QML)
 
-A modern and responsive **Food Courier mobile application UI** developed using **Qt 6** and **QML**. This project recreates a food delivery app interface with onboarding screens, account creation, and login functionality.
+A modern and responsive Food Courier mobile application UI developed using Qt 6 and QML. This project recreates a food delivery app interface with onboarding screens, account creation, and login functionality.
 
----
+
 
 ## 📱 Features
 
@@ -16,7 +16,6 @@ A modern and responsive **Food Courier mobile application UI** developed using *
 - Responsive Layout
 - Modern Material-inspired Design
 
----
 
 ## 🛠️ Technologies Used
 
@@ -27,11 +26,11 @@ A modern and responsive **Food Courier mobile application UI** developed using *
 - Qt Quick Layouts
 - CMake
 
----
+
 
 ## 📂 Project Structure
 
-```
+
 Internshiptask1/
 │
 ├── Main.qml
@@ -48,7 +47,7 @@ Internshiptask1/
 └── README.md
 ```
 
----
+
 
 ## ✨ Screens
 
@@ -67,7 +66,7 @@ Internshiptask1/
 - Google Login button
 - Forgot Password button
 
----
+
 
 ## 🚀 Implemented Features
 
@@ -95,7 +94,6 @@ Internshiptask1/
 - Login button
 - Login with Google button
 
----
 
 ## 🎨 UI Components
 
@@ -112,7 +110,7 @@ Internshiptask1/
 - MouseArea
 - Row
 
----
+
 
 ## 📸 Assets
 
@@ -123,7 +121,7 @@ Images used in the project include:
 - Navigation Indicators
 - UI Icons
 
----
+
 
 ## ▶️ Running the Project
 
@@ -144,7 +142,7 @@ cmake --build .
 
 Run the application using Qt Creator or execute the generated binary.
 
----
+
 
 ## 📚 Learning Outcomes
 
@@ -163,7 +161,7 @@ This project helped in understanding:
 - CMake Project Structure
 - Git & GitHub Workflow
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -178,18 +176,18 @@ This project helped in understanding:
 - Cart Screen
 - Checkout Screen
 
----
+
 
 ## 👩‍💻 Author
 
-**Ameena Gul**
+Ameena Gul
 
 BS Artificial Intelligence  
 Bahria University Islamabad
 
 GitHub: https://github.com/ameena-gul
 
----
+
 
 ## ⭐ Project Status
 
