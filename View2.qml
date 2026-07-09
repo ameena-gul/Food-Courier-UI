@@ -21,6 +21,48 @@ Page{
         y: 236
         radius: 7
         color: "white"
+
+
+        TabBar{
+            id : bar
+            width: parent.width
+            anchors.horizontalCenter: parent.horizontalCenter
+            y:32
+            height:31
+            background: Rectangle{
+                color:"white"
+            }
+            TabButton{
+                text: "Create Account"
+                font.family:"Poppins"
+                font.pixelSize: 16
+                font.bold: true
+                background: Rectangle{
+                    color:"transparent"
+                }
+                contentItem: Text{
+                    text:parent.text
+                    color:"#D61355"
+                    font.bold: true
+
+                }
+            }
+            TabButton{
+                text: "Login"
+                font.family:"Poppins"
+                font.pixelSize: 16
+                font.bold: true
+                background: Rectangle{
+                    color: "transparent"
+
+                }
+                contentItem: Text{
+                    text: parent.text
+                    color:"Black"
+                    font.bold: true
+                }
+            }
+            }
 }
     Button{
     width: 256
@@ -47,6 +89,7 @@ Page{
         horizontalAlignment: Text.AlignHCenter
         verticalAlignment: Text.AlignVCenter
     }
+
     }
     Button{
         width: 256

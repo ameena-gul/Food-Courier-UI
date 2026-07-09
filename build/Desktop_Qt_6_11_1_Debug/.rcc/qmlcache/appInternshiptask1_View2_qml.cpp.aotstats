@@ -23,10 +23,42 @@
                         },
                         {
                             "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 28,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 29,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 44,
+                            "message": "Cannot load property text from (component in /home/ameena/projects/Internshiptask1/View2.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 60,
+                            "message": "Cannot load property text from (component in /home/ameena/projects/Internshiptask1/View2.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
                             "column": 15,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 32,
+                            "line": 74,
                             "message": ""
                         },
                         {
@@ -34,7 +66,7 @@
                             "column": 18,
                             "durationMicroseconds": 0,
                             "functionName": "top",
-                            "line": 28,
+                            "line": 70,
                             "message": ""
                         },
                         {
@@ -42,7 +74,7 @@
                             "column": 19,
                             "durationMicroseconds": 0,
                             "functionName": "left",
-                            "line": 30,
+                            "line": 72,
                             "message": ""
                         },
                         {
@@ -50,7 +82,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalAlignment",
-                            "line": 47,
+                            "line": 89,
                             "message": ""
                         },
                         {
@@ -58,7 +90,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "verticalAlignment",
-                            "line": 48,
+                            "line": 90,
                             "message": ""
                         },
                         {
@@ -66,7 +98,7 @@
                             "column": 19,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 59,
+                            "line": 102,
                             "message": ""
                         },
                         {
@@ -74,7 +106,7 @@
                             "column": 22,
                             "durationMicroseconds": 0,
                             "functionName": "top",
-                            "line": 54,
+                            "line": 97,
                             "message": ""
                         },
                         {
@@ -82,7 +114,7 @@
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "left",
-                            "line": 56,
+                            "line": 99,
                             "message": ""
                         },
                         {
@@ -90,7 +122,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalCenter",
-                            "line": 58,
+                            "line": 101,
                             "message": ""
                         },
                         {
@@ -98,7 +130,7 @@
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "fillMode",
-                            "line": 75,
+                            "line": 118,
                             "message": ""
                         },
                         {
@@ -106,7 +138,7 @@
                             "column": 34,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalAlignment",
-                            "line": 84,
+                            "line": 127,
                             "message": ""
                         },
                         {
@@ -114,7 +146,7 @@
                             "column": 32,
                             "durationMicroseconds": 0,
                             "functionName": "verticalAlignment",
-                            "line": 85,
+                            "line": 128,
                             "message": ""
                         }
                     ],
