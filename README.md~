@@ -1,1 +1,198 @@
-# Food-Courier-UI-UX
+# 🍔 Food Courier UI (Qt/QML)
+
+A modern and responsive **Food Courier mobile application UI** developed using **Qt 6** and **QML**. This project recreates a food delivery app interface with onboarding screens, account creation, and login functionality.
+
+---
+
+## 📱 Features
+
+- Onboarding Screen
+- SwipeView Navigation
+- Create Account Screen
+- Login Screen
+- TabBar Navigation
+- Dynamic Tab Highlighting
+- Google Authentication Button UI
+- Responsive Layout
+- Modern Material-inspired Design
+
+---
+
+## 🛠️ Technologies Used
+
+- Qt 6
+- QML
+- Qt Quick
+- Qt Quick Controls Basic
+- Qt Quick Layouts
+- CMake
+
+---
+
+## 📂 Project Structure
+
+```
+Internshiptask1/
+│
+├── Main.qml
+├── View1.qml
+├── View2.qml
+├── main.cpp
+├── CMakeLists.txt
+├── images/
+│   ├── Illustration.png
+│   ├── Illustration2.png
+│   ├── Google.png
+│   ├── Group3.png
+│   └── ...
+└── README.md
+```
+
+---
+
+## ✨ Screens
+
+### Onboarding
+- Food Courier welcome screen
+- Illustration
+- Next button
+- Navigation indicators
+
+### Authentication
+- Create Account form
+- Login form
+- Swipe between pages
+- Dynamic TabBar
+- Google Sign Up button
+- Google Login button
+- Forgot Password button
+
+---
+
+## 🚀 Implemented Features
+
+### SwipeView Navigation
+- Smooth swipe between Create Account and Login pages.
+- TabBar and SwipeView stay synchronized.
+
+### Dynamic TabBar
+- Selected tab turns **Pink (#D61355)**.
+- Unselected tab remains **Black**.
+
+### Authentication Forms
+
+#### Create Account
+- Full Name
+- Email Address
+- Password
+- Sign Up button
+- Sign Up with Google button
+
+#### Login
+- Email Address
+- Password
+- Forgot Password button
+- Login button
+- Login with Google button
+
+---
+
+## 🎨 UI Components
+
+- ApplicationWindow
+- StackView
+- SwipeView
+- TabBar
+- TabButton
+- Text
+- TextField
+- Button
+- Rectangle
+- Image
+- MouseArea
+- Row
+
+---
+
+## 📸 Assets
+
+Images used in the project include:
+
+- Illustration
+- Google Logo
+- Navigation Indicators
+- UI Icons
+
+---
+
+## ▶️ Running the Project
+
+### Requirements
+
+- Qt Creator
+- Qt 6.10+
+- CMake
+
+### Build
+
+```bash
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
+
+Run the application using Qt Creator or execute the generated binary.
+
+---
+
+## 📚 Learning Outcomes
+
+This project helped in understanding:
+
+- Qt Quick
+- QML Components
+- StackView Navigation
+- SwipeView
+- TabBar
+- Layout Management
+- Anchors
+- Event Handling
+- Button Customization
+- UI Design using QML
+- CMake Project Structure
+- Git & GitHub Workflow
+
+---
+
+## 🔮 Future Improvements
+
+- Backend Integration
+- Firebase Authentication
+- Form Validation
+- Password Visibility Toggle
+- Forgot Password Functionality
+- Social Authentication
+- Home Screen
+- Food Categories
+- Cart Screen
+- Checkout Screen
+
+---
+
+## 👩‍💻 Author
+
+**Ameena Gul**
+
+BS Artificial Intelligence  
+Bahria University Islamabad
+
+GitHub: https://github.com/ameena-gul
+
+---
+
+## ⭐ Project Status
+
+🚧 UI Development in Progress
+
+This project is currently focused on designing and implementing the user interface using Qt/QML. Backend functionality will be added in future updates.
