@@ -55,98 +55,154 @@
                         },
                         {
                             "codegenResult": 0,
-                            "column": 15,
+                            "column": 27,
                             "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 74,
+                            "functionName": "currentIndex",
+                            "line": 75,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 18,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCurrentIndexChanged",
+                            "line": 77,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
                             "durationMicroseconds": 0,
                             "functionName": "top",
-                            "line": 70,
+                            "line": 69,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 19,
+                            "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "left",
-                            "line": 72,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 30,
-                            "durationMicroseconds": 0,
-                            "functionName": "horizontalAlignment",
-                            "line": 89,
+                            "line": 71,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 28,
                             "durationMicroseconds": 0,
-                            "functionName": "verticalAlignment",
-                            "line": 90,
+                            "functionName": "right",
+                            "line": 72,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 19,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 73,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "echoMode",
+                            "line": 139,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 102,
+                            "line": 152,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 22,
+                            "column": 46,
                             "durationMicroseconds": 0,
-                            "functionName": "top",
-                            "line": 97,
+                            "functionName": "horizontalAlignment",
+                            "line": 164,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 23,
+                            "column": 44,
                             "durationMicroseconds": 0,
-                            "functionName": "left",
-                            "line": 99,
+                            "functionName": "verticalAlignment",
+                            "line": 165,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 35,
+                            "column": 32,
                             "durationMicroseconds": 0,
-                            "functionName": "horizontalCenter",
-                            "line": 101,
+                            "functionName": "onClicked",
+                            "line": 177,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 23,
+                            "column": 43,
                             "durationMicroseconds": 0,
-                            "functionName": "fillMode",
-                            "line": 118,
+                            "functionName": "centerIn",
+                            "line": 187,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 37,
+                            "column": 31,
                             "durationMicroseconds": 0,
-                            "functionName": "verticalCenter",
-                            "line": 119,
+                            "functionName": "echoMode",
+                            "line": 244,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 37,
+                            "column": 31,
                             "durationMicroseconds": 0,
-                            "functionName": "verticalCenter",
-                            "line": 128,
+                            "functionName": "onClicked",
+                            "line": 256,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 278,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalAlignment",
+                            "line": 290,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 291,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 303,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 313,
                             "message": ""
                         }
                     ],
