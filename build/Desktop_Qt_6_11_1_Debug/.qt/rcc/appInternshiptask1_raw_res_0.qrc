@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Internshiptask1/">
+    <file alias="images/Illustration.png">/home/ameena/projects/Internshiptask1/images/Illustration.png</file>
+    <file alias="images/CTAButton.png">/home/ameena/projects/Internshiptask1/images/CTAButton.png</file>
+    <file alias="images/Group3.png">/home/ameena/projects/Internshiptask1/images/Group3.png</file>
+  </qresource>
+</RCC>
+

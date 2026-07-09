@@ -1,0 +1,8 @@
+module Internshiptask1
+typeinfo appInternshiptask1.qmltypes
+prefer :/qt/qml/Internshiptask1/
+Main 254.0 Main.qml
+View1 254.0 View1.qml
+View2 254.0 View2.qml
+depends QtQuick
+

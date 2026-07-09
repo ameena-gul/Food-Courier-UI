@@ -1,0 +1,9 @@
+--resource
+/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/.qt/rcc/qmake_Internshiptask1.qrc
+--resource
+/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/.qt/rcc/appInternshiptask1_raw_qml_0.qrc
+--resource
+/home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/.qt/rcc/appInternshiptask1_raw_res_0.qrc
+/qt/qml/Internshiptask1/Main.qml
+/qt/qml/Internshiptask1/View1.qml
+/qt/qml/Internshiptask1/View2.qml

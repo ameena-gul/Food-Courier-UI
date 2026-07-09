@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appInternshiptask1_FILE /home/ameena/projects/Internshiptask1/build/Desktop_Qt_6_11_1_Debug/appInternshiptask1)
+set(__QT_DEPLOY_TARGET_appInternshiptask1_TYPE EXECUTABLE)

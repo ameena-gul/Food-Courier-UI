@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Internshiptask1/">
+    <file alias="Main.qml">/home/ameena/projects/Internshiptask1/Main.qml</file>
+    <file alias="View1.qml">/home/ameena/projects/Internshiptask1/View1.qml</file>
+    <file alias="View2.qml">/home/ameena/projects/Internshiptask1/View2.qml</file>
+  </qresource>
+</RCC>
+
