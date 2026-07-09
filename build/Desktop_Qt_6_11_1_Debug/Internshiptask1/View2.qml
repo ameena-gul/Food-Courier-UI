@@ -116,6 +116,7 @@ Page{
             width: 20
             height: 20
             fillMode: Image.PreserveAspectFit
+            anchors.verticalCenter: parent.verticalCenter
 
         }
             Text{
@@ -124,8 +125,7 @@ Page{
             font.bold:true
             font.family:"Poppins"
             font.pixelSize:14
-            horizontalAlignment: Text.AlignHCenter
-            verticalAlignment: Text.AlignVCenter
+            anchors.verticalCenter: parent.verticalCenter
 
         }
     }

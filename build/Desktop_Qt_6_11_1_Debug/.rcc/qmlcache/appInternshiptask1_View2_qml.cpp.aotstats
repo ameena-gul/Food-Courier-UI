@@ -135,17 +135,17 @@
                         },
                         {
                             "codegenResult": 0,
-                            "column": 34,
+                            "column": 37,
                             "durationMicroseconds": 0,
-                            "functionName": "horizontalAlignment",
-                            "line": 127,
+                            "functionName": "verticalCenter",
+                            "line": 119,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 32,
+                            "column": 37,
                             "durationMicroseconds": 0,
-                            "functionName": "verticalAlignment",
+                            "functionName": "verticalCenter",
                             "line": 128,
                             "message": ""
                         }
