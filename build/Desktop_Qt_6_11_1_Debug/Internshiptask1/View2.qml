@@ -42,8 +42,8 @@ Page{
                 }
                 contentItem: Text{
                     text:parent.text
-                    color:"#D61355"
                     font.bold: true
+                    color: bar.currentIndex === 0 ? "#D61355" : "black"
 
                 }
             }
@@ -58,7 +58,7 @@ Page{
                 }
                 contentItem: Text{
                     text: parent.text
-                    color:"Black"
+                     color: bar.currentIndex === 1 ? "#D61355" : "black"
                     font.bold: true
                 }
             }
@@ -75,12 +75,11 @@ Page{
             currentIndex: bar.currentIndex
 
             onCurrentIndexChanged: {
-                bar.currentIndex = currentIndex
-            }
+                 bar.currentIndex = currentIndex
+             }
 
-            //==========================
+
             // CREATE ACCOUNT PAGE
-            //==========================
             Item {
 
                 Text {
